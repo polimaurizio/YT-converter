@@ -1,4 +1,4 @@
-### Install befor running the code
+### Install before running the code
 
 ```
 pip3 install pytube
