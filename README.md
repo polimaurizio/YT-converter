@@ -1,5 +1,5 @@
-### Install before running the code
+### Run code
 
 ```
-pip3 install pytube
+Click on Convertitore script app
 ```
