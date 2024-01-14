@@ -1,4 +1,10 @@
-from pytube import YouTube 
+
+try:
+    from pytube import YouTube
+except ImportError:
+    print("Errore: Pytube non installato. Esegui lo script di installazione delle dipendenze.")
+    exit(1)
+
 import os 
 
 # user yt url  
